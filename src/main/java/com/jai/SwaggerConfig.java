@@ -46,7 +46,7 @@ public class SwaggerConfig {
 		return new ApiInfoBuilder().title("Swagger Example")
 				.description(
 						"Swagger is an open source software framework that helps developers design, build, document, and consume RESTful Web services. Basically it's provide the description/documentation of your Restful Web Service.")
-				.termsOfServiceUrl("http://localhost:8080/swagger-ui.html").licenseUrl("jainath.jaiswal@mastercard.com")
+				.termsOfServiceUrl("http://localhost:8080/swagger-ui.html").licenseUrl("a@b.com")
 				.version("1.0").build();
 	}
 
